@@ -7,11 +7,14 @@ ENTRADAS
 3. Bolsas biodegradables para las heces fecales
 
 PROCESOS
+
 Inicio
+
 1. Colocar las correas a los perros
 2. Dar la orden para salir
 3. Caminar con ellos
 4. Cuando realicen sus necesidades, recogerlas con una de las bolsas biodegradables
+
 Fin
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
