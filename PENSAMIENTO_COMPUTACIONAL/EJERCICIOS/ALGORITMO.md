@@ -22,9 +22,9 @@ PROCESOS
 
     Inicio
 
-    Declarar(día de nacimiento, mes de nacimiento, año de nacimiento, restandole el día de hoy, mes actual, año actual, edad de una persona): números reales
-    Ingresar los valores(día de nacimiento, mes de nacimiento, año de nacimiento, día de hoy, mes actual, año actual)
-    Restar=(día de nacimiento, mes de nacimiento, año de nacimiento) - (día de hoy, mes actual, año actual)
-    Mostrar(edad de una persona)
+    Declarar(día de nacimiento, mes de nacimiento, año de nacimiento, día de hoy, mes actual, año actual, edad de una persona): números reales
+    Asignar(día de nacimiento, mes de nacimiento, año de nacimiento, día de hoy, mes actual, año actual)
+    Edad de una persona=(día de nacimiento, mes de nacimiento, año de nacimiento) - (día de hoy, mes actual, año actual)
+    Mostrar(Edad de una persona)
 
     Fin
